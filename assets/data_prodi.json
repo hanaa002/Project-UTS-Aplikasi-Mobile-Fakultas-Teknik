@@ -1,0 +1,241 @@
+{
+    "fakultas": "Fakultas Teknik",
+    "deskripsi": "Fakultas Teknik di UPN Veteran Jawa Timur menawarkan berbagai program studi di bidang teknik yang bertujuan untuk menghasilkan lulusan yang kompeten dan siap untuk berkontribusi dalam industri dan masyarakat.",
+    "prodi": [
+        {
+            "logo": "assets/logo_tekkim.png",
+            "name": "Program Studi Teknik Kimia",
+            "visi": "Menjadi Program Studi yang unggul dalam IPTEK di bidang Teknik Kimia yang berkarakter bela negara",
+            "misi": "Menyelenggarakan proses pendidikan dan pengajaran yang berkompetensi, berwawasan technopreneur dan berkarakter bela negara",
+            "akreditasi": "A",
+            "kaprodi": "Dr. Ir. Sintha Soraya Santi, M.T.",
+            "dosen": [
+                {
+                    "name": "Prof. Dr. Ir. Sri Redjeki, M.T.",
+                    "jabatan": "Guru Besar"
+                },
+                {
+                    "name": "Prof. Dr. Ir. Ni Ketut Sari, M.T.",
+                    "jabatan": "Guru Besar"
+                },
+                {
+                    "name": "Ir. Sutiyono, M.T.",
+                    "jabatan": "Lektor Kepala"
+                },
+                {
+                    "name": "Dr. Ir. Srie Muljani, M.T.",
+                    "jabatan": "Lektor Kepala"
+                },
+                {
+                    "name": "Ir. Mutasim Billah, M.T.",
+                    "jabatan": "Lektor Kepala"
+                }
+            ],
+            "email": "tekkimia@upnjatim.ac.id.",
+            "website": "https://tekkimia.upnjatim.ac.id",
+            "prestasi": [
+                {
+                    "tahun": 2023,
+                    "nama": "Juara 2",
+                    "event": "LKTI OKTAN ITB"
+                },
+                {
+                    "tahun": 2023,
+                    "nama": "Peraih Medali Emas",
+                    "event": "Kompetisi Sains Indonesia (KOSMIK) 2023"
+                },
+                {
+                    "tahun": 2022,
+                    "nama": "Peraih Medali Emas",
+                    "event": "Penerima Djarum Beasiswa Plus"
+                }
+            ]
+        },
+        {
+            "logo": "assets/logo_tekindustri.png",
+            "name": "Program Studi Teknik Industri",
+            "visi": "Menjadi program studi unggul dalam pengembangan keilmuan teknik industri dalam meningkatkan produktifitas dan kualitas sistem yang berkarakter Bela Negara",
+            "misi": "",
+            "akreditasi": "Unggul",
+            "kaprodi": "Dr. Farida Pulansari, ST., MT., CSCM., IPM.",
+            "dosen": [
+                {
+                    "name": "Dr. Ir. Minto Waluyo, MM.",
+                    "jabatan": "Lektor Kepala"
+                },
+                {
+                    "name": "Ir. Moch.Tutuk Safirin, MT.",
+                    "jabatan": "Lektor Kepala"
+                },
+                {
+                    "name": "Ir. Rr. Rochmoeljati, MMT.",
+                    "jabatan": "Lektor Kepala"
+                },
+                {
+                    "name": "Ir. Endang Pudji W., MMT.",
+                    "jabatan": "Lektor"
+                },
+                {
+                    "name": "Ir. Rusindiyanto, MT.",
+                    "jabatan": "Lektor"
+                }
+            ],
+            "email": "teknik.industri@upnjatim.ac.id.",
+            "website": "https://tekindustri.upnjatim.ac.id",
+            "prestasi": [
+                {
+                    "tahun": 2023,
+                    "nama": "Juara 1",
+                    "event": "PORPROV Pencak Silat"
+                },
+                {
+                    "tahun": 2023,
+                    "nama": "Juara 2",
+                    "event": "Internasional Occupation Safety and Health SUMMIT2023"
+                },
+                {
+                    "tahun": 2021,
+                    "nama": "Juara 3",
+                    "event": "Einsten Great Event #2"
+                }
+            ]
+        },
+        {
+            "logo": "assets/logo_tekpang.jpeg",
+            "name": "Program Studi Teknologi Pangan",
+            "visi": "Menjadi Program Studi Teknologi Pangan yang berkualitas dibidang ilmu dan teknologi pangan yang berkarakter bela negara pada tahun 2024",
+            "misi": "Menyelenggarakan pendidikan dan pembelajaran berkualitas di bidang Teknologi berkarakter bela negara",
+            "akreditasi": "Unggul",
+            "kaprodi": "Dr. Rosida, S.TP, MP",
+            "dosen": [
+                {
+                    "name": "Dr. Rosida, S.TP, MP.",
+                    "jabatan": "Lektor"
+                },
+                {
+                    "name": "Dr. Ir. Sri Winarti, MP",
+                    "jabatan": " Lektor Kepala"
+                }
+            ],
+            "email": "tp@upnjatim.ac.id",
+            "website": "https://tekpangan.upnjatim.ac.id",
+            "prestasi": [
+                {
+                    "tahun": 2023,
+                    "nama": "Juara 1",
+                    "event": "Kyoguri Festival Putri"
+                },
+                {
+                    "tahun": 2023,
+                    "nama": "Juara 1",
+                    "event": "Jujitsu KAJUO XVII"
+                },
+                {
+                    "tahun": 2022,
+                    "nama": "Juara 1",
+                    "event": "Innovation"
+                }
+
+            ]
+        },
+        {
+            "logo": "assets/logo_tekling.jpeg",
+            "name": "Program Studi Teknik Lingkungan",
+            "visi": "Menjadi Program Studi Teknik Lingkungan yang unggul, menghasilkan lulusan yang berdaya saing di bidang rekayasa dan manajemen lingkungan, dengan karakter bela negara",
+            "misi": "Menghasilkan lulusan yang dapat berkarir secara professional di bidang Teknik Lingkungan dengan karakter bela negara, yang mampu bersaing dalam era global",
+            "akreditasi": "Unggul",
+            "kaprodi": "Firra Rosariawari, S.T., M.T.",
+            "dosen": [
+                {
+                    "name": "Prof. Euis Nurul Hidayah, MT., PhD.",
+                    "jabatan": "Guru Besar"
+                },
+                {
+                    "name": "Prof. Dr. Ir. Novirina Hendrasarie, MT.",
+                    "jabatan": "Guru Besar"
+                },
+                {
+                    "name": "Dr. Ir. Munawar Ali, MT.",
+                    "jabatan": "Lektor Kepala"
+                },
+                {
+                    "name": "Raden Kokoh Haryo Putro ST., MT.",
+                    "jabatan": "Lektor"
+                },
+                {
+                    "name": "Aussie Amalia, ST., MSc.",
+                    "jabatan": "Lektor"
+                }
+            ],
+            "email": "teknik.lingkungan@upnjatim.ac.id ",
+            "website": "https://teklingk.upnjatim.ac.id/",
+            "prestasi": [
+                {
+                    "tahun": 2023,
+                    "nama": "Juara 1",
+                    "event": "Panjat Tebing PORPROV VII 2023"
+                },
+                {
+                    "tahun": 2023,
+                    "nama": "Best Presentation",
+                    "event": "Pekan Riset Ilmiah Mahasiswa (PRISMA 10)"
+                },
+                {
+                    "tahun": 2021,
+                    "nama": "Juara 3",
+                    "event": "Einsten Great Event #2"
+                }
+
+            ]
+        },
+        {
+            "logo": "assets/logo_teksipil.jpeg",
+            "name": "Program Studi Teknik Sipil",
+            "visi": "Visi Program Studi Teknik Sipil adalah menjadi program studi yang unggul dalam pengembangan dan penerapan ilmu pengetahuan, teknologi (IPTEK) serta sumber daya manusia guna menumbuhkembangkan potensi daerah yang mampu bersaing dalam pasar bebas dan berkarakter bela negara",
+            "misi": "Menyelenggarakan dan mengembangkan pendidikan di bidang teknik sipil berkarakter bela negara. Meningkatkan budaya riset dalam pengembangan bidang ilmu pengetahuan, dan teknologi (IPTEK) yang berdaya guna untuk kesejahteraan masyarakat",
+            "akreditasi": "Baik Sekali",
+            "kaprodi": "Dr. Ir. Hendrata Wibisana, M. T.",
+            "dosen": [
+                {
+                    "name": "Ir. Wahyu Kartini, M.T.",
+                    "jabatan": "Lektor"
+                },
+                {
+                    "name": "Sumaidi, S.T., M.T.",
+                    "jabatan": "Lektor"
+                },
+                {
+                    "name": "Nia Dwi Puspitasari, S.T., M.T.",
+                    "jabatan": "Tenaga Pengajar"
+                },
+                {
+                    "name": "Cintantya Budi Casita, S.T., M.T.",
+                    "jabatan": "Asisten Ahli"
+                },
+                {
+                    "name": "Dr. Ir. Made D. Astawa, M.T.",
+                    "jabatan": "Lektor Kepala"
+                }
+            ],
+            "email": "tekniksipil_ft@upnjatim.ac.id",
+            "website": "https://teksipil.upnjatim.ac.id",
+            "prestasi": [
+                {
+                    "tahun": 2023,
+                    "nama": "Juara 1",
+                    "event": "Pencak Silat Magelang Championship II"
+                },
+                {
+                    "tahun": 2023,
+                    "nama": "Juara 3",
+                    "event": "Civil Tender Competition 2023"
+                },
+                {
+                    "tahun": 2021,
+                    "nama": "Juara 2",
+                    "event": "Civil National Expo"
+                }
+            ]
+        }
+    ]
+}
